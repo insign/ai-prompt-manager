@@ -1,4 +1,6 @@
-# AI Prompt Manager
+# ⚠️ Moved to [Userscripts Collection](https://github.com/insign/userscripts)
+
+## AI Prompt Manager
 
 ## Installation
 
